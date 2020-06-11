@@ -149,7 +149,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
