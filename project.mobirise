@@ -369,7 +369,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -752,7 +753,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -977,7 +979,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1209,7 +1212,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1447,7 +1451,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
