@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 
@@ -526,7 +527,7 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 #header1-1 .mbr-section-lead SPAN {
-  font-size: 36px;
+  font-size: 48px;
 }
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
@@ -536,6 +537,7 @@ section.form .container {
   vertical-align: middle;
   padding-right: 0;
 }
+
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -617,6 +619,9 @@ section.form .container {
 #pricing-table2-19 .mbr-plan-list .list-group-item UL {
   text-align: right;
 }
+#contacts2-f P {
+  font-family: 'Lora', serif;
+}
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
   color: #fff;
@@ -625,6 +630,7 @@ section.form .container {
   vertical-align: middle;
   padding-right: 0;
 }
+
 #msg-box2-16 .mbr-section-title {
   color: #fff;
 }
@@ -692,6 +698,9 @@ section.form .container {
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts2-k P {
+  font-family: 'Lora', serif;
+}
 #social-buttons4-l .mbr-section-title,
 #social-buttons4-l .btn-social {
   color: #fff;
@@ -700,6 +709,7 @@ section.form .container {
   vertical-align: middle;
   padding-right: 0;
 }
+
 #header6-z .mbr-section-title {
   color: #28262b;
 }
@@ -777,6 +787,9 @@ section.form .container {
 #content7-s .lead {
   color: #efefef;
 }
+#contacts2-p P {
+  font-family: 'Lora', serif;
+}
 #social-buttons4-q .mbr-section-title,
 #social-buttons4-q .btn-social {
   color: #fff;
@@ -785,6 +798,7 @@ section.form .container {
   vertical-align: middle;
   padding-right: 0;
 }
+
 
 #ext_menu-1i .hide-buttons .nav-btn {
   display: none !important;
@@ -858,6 +872,9 @@ section.form .container {
 #header1-1j .mbr-section-lead SPAN {
   font-size: 48px;
 }
+#contacts2-1l P {
+  font-family: 'Lora', serif;
+}
 #social-buttons4-1m .mbr-section-title,
 #social-buttons4-1m .btn-social {
   color: #fff;
@@ -866,6 +883,7 @@ section.form .container {
   vertical-align: middle;
   padding-right: 0;
 }
+
 
 #ext_menu-1n .hide-buttons .nav-btn {
   display: none !important;
@@ -938,6 +956,9 @@ section.form .container {
 }
 #header1-1o .mbr-section-lead SPAN {
   font-size: 46px;
+}
+#contacts2-1q P {
+  font-family: 'Lora', serif;
 }
 #social-buttons4-1r .mbr-section-title,
 #social-buttons4-1r .btn-social {

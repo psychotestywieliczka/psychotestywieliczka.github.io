@@ -192,7 +192,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "36px"
+              "font-size": "48px"
             }
           }
         },
@@ -524,7 +524,13 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-f"
+          "_anchor": "contacts2-f",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -784,7 +790,13 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-k"
+          "_anchor": "contacts2-k",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -1069,7 +1081,13 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-p"
+          "_anchor": "contacts2-p",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -1300,7 +1318,13 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1l"
+          "_anchor": "contacts2-1l",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -1531,7 +1555,13 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1q"
+          "_anchor": "contacts2-1q",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
