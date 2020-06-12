@@ -647,6 +647,13 @@ section.form .container {
   padding-right: 0;
 }
 
+#slider-15 H2 {
+  text-align: left;
+  font-size: 36px;
+}
+#slider-15 P {
+  text-align: left;
+}
 #msg-box2-16 .mbr-section-title {
   color: #fff;
 }

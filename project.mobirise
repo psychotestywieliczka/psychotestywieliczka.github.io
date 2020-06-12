@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Psychotesty",
-    "currentPage": "index.html",
+    "currentPage": "badaniakierowcow.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -785,7 +785,16 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-15"
+          "_anchor": "slider-15",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
