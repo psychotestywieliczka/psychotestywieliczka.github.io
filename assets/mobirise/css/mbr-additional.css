@@ -533,11 +533,11 @@ section.form .container {
 }
 #header4-1t .mbr-section-lead {
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
+  text-align: left;
   font-size: 36px;
 }
 #header4-1t .mbr-section-lead SPAN {
-  font-size: 46px;
+  font-size: 36px;
 }
 #header4-1t .mbr-section-lead B {
   font-size: 46px;

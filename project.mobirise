@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Psychotesty",
-    "currentPage": "badaniakierowcow.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -162,7 +162,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1212.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -230,11 +230,11 @@
             ".mbr-section-lead": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "36px"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".mbr-section-lead B": {
               "font-size": "46px"
