@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Psychotesty",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -47,7 +47,7 @@
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "W celu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=’polityka.html’>Polityka Prywatności</a>.",
-      "textButton": "Agree"
+      "textButton": "Zgoda"
     },
     "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -58,7 +58,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Badania Psychotechniczne Wieliczka",
+        "meta_descr": "Badania Kierowców Wieliczka; Badania Psychotechniczne",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -285,7 +285,7 @@
         }
       ]
     },
-    "page1.html": {
+    "oferta.html": {
       "settings": {
         "title": "Oferta i Cennik",
         "meta_descr": "Cennik Badań Kierowców Wieliczka",
@@ -559,7 +559,7 @@
         }
       ]
     },
-    "page2.html": {
+    "badaniakierowcow.html": {
       "settings": {
         "title": "Badania Psychologiczne",
         "meta_descr": "Badania Kierowców Wieliczka",
@@ -819,7 +819,7 @@
         }
       ]
     },
-    "page3.html": {
+    "onas.html": {
       "settings": {
         "title": "O Nas",
         "meta_descr": "",
@@ -1104,7 +1104,7 @@
         }
       ]
     },
-    "page4.html": {
+    "kontakt.html": {
       "settings": {
         "title": "Kontakt",
         "meta_descr": "Badania Psychotechniczne Wieliczka",
@@ -1335,7 +1335,7 @@
         }
       ]
     },
-    "page5.html": {
+    "polityka.html": {
       "settings": {
         "title": "Polityka Prywatności",
         "meta_descr": "Badania Psychotechniczne Wieliczka",
