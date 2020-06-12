@@ -175,7 +175,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Badania Psychologiczne <br>Kierowców i Operatorów Maszyn",
-          "text": "<span style=\"font-style: normal;\"><b>zszyn</b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</b></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
@@ -188,10 +188,9 @@
               "font-size": "48px"
             },
             ".mbr-section-lead": {
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#e25041"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-lead SPAN": {
               "font-size": "36px"
