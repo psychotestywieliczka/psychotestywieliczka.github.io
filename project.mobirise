@@ -31,7 +31,14 @@
     "uniqCompNum": 54,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -163,7 +170,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "48px"
             }
           }
