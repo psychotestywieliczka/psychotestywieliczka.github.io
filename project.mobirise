@@ -32,7 +32,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-car-50-50x50.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
