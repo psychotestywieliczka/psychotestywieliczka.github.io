@@ -193,7 +193,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "48px"
+              "font-size": "36px"
             }
           }
         },
