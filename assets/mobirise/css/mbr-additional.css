@@ -534,9 +534,13 @@ section.form .container {
 #header4-1t .mbr-section-lead {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+  font-size: 36px;
 }
 #header4-1t .mbr-section-lead SPAN {
-  font-size: 36px;
+  font-size: 46px;
+}
+#header4-1t .mbr-section-lead B {
+  font-size: 46px;
 }
 #header1-1s .mbr-section-lead {
   font-size: 36px;
@@ -647,12 +651,20 @@ section.form .container {
   padding-right: 0;
 }
 
+
+
 #slider-15 H2 {
   text-align: left;
   font-size: 36px;
 }
 #slider-15 P {
   text-align: left;
+}
+#slider-15 SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-15 B {
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box2-16 .mbr-section-title {
   color: #fff;

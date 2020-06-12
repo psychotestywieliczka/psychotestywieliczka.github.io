@@ -200,8 +200,8 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
@@ -218,8 +218,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Badania Psychologiczne \n<div>Kierowców i Operatorów Maszyn</div>",
-          "text": "",
+          "title": "",
+          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne\n<br></b></span><b style=\"font-style: normal;\">Kierowców i Operatorów Maszyn</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
@@ -230,10 +230,14 @@
             ".mbr-section-lead": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "36px"
+              "font-size": "46px"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "46px"
             }
           }
         },
@@ -735,31 +739,31 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Badania Psychologiczne",
+                "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>Badanie przeprowadzamy w miłej atmosferze",
+                "text": "<br><b style=\"font-style: normal;\">Badania Psychologiczne</b><br><b style=\"font-style: normal;\"><br></b>Badanie przeprowadzamy w miłej atmosferze",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Badania Psychologiczne",
+                "title": "",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Szybko",
+                "text": "<span style=\"font-style: normal;\">Badania Psychologiczne<br></span>Szybko",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               },
@@ -768,13 +772,13 @@
                 "active": false,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Badania Psychologiczne",
+                "title": "",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "W dogodnym dla Państwa terminie (również w weekendy i wieczorem) po wcześniejszej rejestracji telefoniczne.",
+                "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne<br></b></span><br>W dogodnym dla Państwa terminie (również w weekendy i wieczorem) po wcześniejszej rejestracji telefoniczne.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
                 "alt": ""
               }
@@ -793,6 +797,14 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
