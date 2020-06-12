@@ -200,8 +200,8 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
-            "showText": true,
+            "showTitle": true,
+            "showText": false,
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
@@ -218,8 +218,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "VIDEO BACKGROUND",
-          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</b></span>",
+          "title": "Badania Psychologiczne \n<div>Kierowców i Operatorów Maszyn</div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
