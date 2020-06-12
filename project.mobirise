@@ -190,7 +190,8 @@
             ".mbr-section-lead": {
               "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#e25041"
             },
             ".mbr-section-lead SPAN": {
               "font-size": "36px"
