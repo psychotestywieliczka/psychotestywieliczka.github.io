@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Psychotesty",
-    "currentPage": "badaniakierowcow.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -176,7 +176,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne\n<br></b></span><b style=\"font-style: normal;\">Kierowców i Operatorów Maszyn</b>",
+          "text": "<b><span style=\"font-style: normal;\">Badania Psychologiczne\n<br></span><span style=\"font-style: normal;\">Kierowców i Operatorów Maszyn</span></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
@@ -191,7 +191,7 @@
               "font-size": "36px"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "36px"
+              "font-size": "46px"
             },
             ".mbr-section-lead B": {
               "font-size": "46px"
