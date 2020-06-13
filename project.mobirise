@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Psychotesty",
-    "currentPage": "index.html",
+    "currentPage": "kontakt.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -58,7 +58,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Badania Kierowców Wieliczka; Badania Psychotechniczne",
+        "meta_descr": "Badania Kierowców Wieliczka Badania Psychotechniczne",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -177,7 +177,7 @@
           },
           "title": "",
           "text": "<span style=\"font-style: normal;\">Badania Psychologiczne\n<br>Kierowców i Operatorów Maszyn</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
           ],
@@ -603,7 +603,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><b style=\"font-style: normal;\">Badania Psychologiczne</b><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Badanie przeprowadzamy w miłej atmosferze</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
                 "alt": ""
               },
               {
@@ -633,7 +633,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne<br></b></span><br>W dogodnym dla Państwa terminie (również w weekendy i wieczorem) po wcześniejszej rejestracji telefoniczne.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
                 "alt": ""
               }
             ]
@@ -861,7 +861,7 @@
     "onas.html": {
       "settings": {
         "title": "O Nas",
-        "meta_descr": "",
+        "meta_descr": "Psycholog Dorota Nawrot",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1154,7 +1154,7 @@
     "kontakt.html": {
       "settings": {
         "title": "Kontakt",
-        "meta_descr": "Badania Psychotechniczne Wieliczka",
+        "meta_descr": "Badania Psychotechniczne Wieliczka Badania Kierowców",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1273,7 +1273,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Badania Psychologiczne <br>Kierowców i Operatorów Maszyn",
-          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</b></span>",
+          "text": "<span style=\"font-style: normal;\">Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
@@ -1290,7 +1290,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "48px"
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-1j"
