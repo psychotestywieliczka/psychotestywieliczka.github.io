@@ -536,6 +536,12 @@ section.form .container {
 #slider-1w SPAN {
   font-family: 'Montserrat', sans-serif;
 }
+#slider-1w DIV {
+  text-align: left;
+}
+#slider-1w H2 {
+  text-align: left;
+}
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
   color: #fff;
