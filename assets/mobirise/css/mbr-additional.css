@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
@@ -525,22 +526,11 @@ section.form .container {
   font-size: 36px;
 }
 #header4-1t .mbr-section-lead SPAN {
-  font-size: 46px;
+  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
 }
 #header4-1t .mbr-section-lead B {
   font-size: 46px;
-}
-#slider-1w P {
-  font-size: 46px;
-}
-#slider-1w SPAN {
-  font-family: 'Montserrat', sans-serif;
-}
-#slider-1w DIV {
-  text-align: left;
-}
-#slider-1w H2 {
-  text-align: left;
 }
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
