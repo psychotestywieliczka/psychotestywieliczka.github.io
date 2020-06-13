@@ -176,7 +176,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "<b><span style=\"font-style: normal;\">Badania Psychologiczne\n<br></span><span style=\"font-style: normal;\">Kierowców i Operatorów Maszyn</span></b>",
+          "text": "<b><span style=\"font-style: normal;\">Badania Psychologiczne\n<br>Kierowców i Operatorów Maszyn</span></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
           "_tags": [
             "Theme"
