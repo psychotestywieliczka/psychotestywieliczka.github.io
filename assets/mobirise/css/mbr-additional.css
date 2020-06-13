@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -528,6 +529,12 @@ section.form .container {
 }
 #header4-1t .mbr-section-lead B {
   font-size: 46px;
+}
+#slider-1w P {
+  font-size: 46px;
+}
+#slider-1w SPAN {
+  font-family: 'Montserrat', sans-serif;
 }
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
