@@ -161,7 +161,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4.jpg",
             "parallax": true,
@@ -191,7 +191,7 @@
               "font-size": "36px"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "36px",
+              "font-size": "48px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
