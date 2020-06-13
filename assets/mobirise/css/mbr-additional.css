@@ -7,8 +7,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -520,17 +518,6 @@ section.form .container {
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-1 .mbr-section-title {
-  text-align: center;
-  font-size: 48px;
-}
-#header1-1 .mbr-section-lead {
-  text-align: left;
-  font-family: 'Montserrat', sans-serif;
-}
-#header1-1 .mbr-section-lead SPAN {
-  font-size: 36px;
-}
 #header4-1t .mbr-section-lead {
   font-family: 'Montserrat', sans-serif;
   text-align: left;
@@ -541,13 +528,6 @@ section.form .container {
 }
 #header4-1t .mbr-section-lead B {
   font-size: 46px;
-}
-#header1-1s .mbr-section-lead {
-  font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
-}
-#slider-1u P {
-  font-size: 30px;
 }
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
@@ -653,12 +633,14 @@ section.form .container {
 
 
 
+
 #slider-15 H2 {
   text-align: left;
   font-size: 36px;
 }
 #slider-15 P {
   text-align: left;
+  font-family: 'Montserrat', sans-serif;
 }
 #slider-15 SPAN {
   font-family: 'Montserrat', sans-serif;

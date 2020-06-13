@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Psychotesty",
-    "currentPage": "index.html",
+    "currentPage": "badaniakierowcow.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -155,49 +155,6 @@
           "_anchor": "ext_menu-0"
         },
         {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1212.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Badania Psychologiczne <br>Kierowców i Operatorów Maszyn",
-          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "48px"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "36px"
-            }
-          }
-        },
-        {
           "_inherit": "header1",
           "_params": {
             "showTitle": false,
@@ -243,111 +200,6 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.4"
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br></b></span><span style=\"font-style: normal;\"><b>Kierowców i Operatorów Maszyn</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1s",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "36px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": "3",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Badania Psychologiczne \r<div>Kierowców i Operatorów Maszyn</div>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zadzwoń</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">608 626 599</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</b></span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1230.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "<span style=\"font-style: normal;\"><b>Badania Psychologiczne \n<br>Kierowców i Operatorów Maszyn</b></span>\n<br>\n<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt : 608 626 599 </a> ",
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-1u",
-          "_styles": {
-            "P": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -369,7 +221,7 @@
           },
           "title": "Zapraszamy do naszej pracowni",
           "text": "&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Cennik</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"oferta.html\" data-toolbar=\"-mbrBtnMove\">Cennik</a>",
           "_tags": [
             "Theme"
           ],
@@ -748,7 +600,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br><b style=\"font-style: normal;\">Badania Psychologiczne</b><br><b style=\"font-style: normal;\"><br></b>Badanie przeprowadzamy w miłej atmosferze",
+                "text": "<br><b style=\"font-style: normal;\">Badania Psychologiczne</b><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Badanie przeprowadzamy w miłej atmosferze</span>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a> ",
                 "alt": ""
               },
@@ -763,7 +615,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<span style=\"font-style: normal;\">Badania Psychologiczne<br></span>Szybko",
+                "text": "<b><span style=\"font-style: normal;\">Badania Psychologiczne</span><br></b><span style=\"font-style: normal;\"><br></span>Szybko",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               },
@@ -796,7 +648,9 @@
               "font-size": "36px"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             "SPAN": {
               "font-family": "'Montserrat', sans-serif",
